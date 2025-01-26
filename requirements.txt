@@ -5,3 +5,4 @@ Flask-WTF==1.0.1
 SQLAlchemy==2.0.17
 Werkzeug==2.2.3
 Pillow==9.2.0
+Gunicorn
